@@ -14,9 +14,9 @@ body { font-family: Arial, sans-serif; background-color: #f4f4f9; color: #333; t
 </head>  
 <body>  
 <h1 class="header">Yancwulf's Saga: The Bookstore</h1>  
-<img src="your-book-cover.png" alt="Yancwulf's Saga Cover" class="book-image">  
+<img src="file_000000001b6461f8aaaa3c52fa3c4151.png" alt="Yancwulf's Saga Cover" class="book-image">  
 <p class="book-description">Step into the mist-cloaked fjords and witness the gripping saga of Yancwulf and Arissara. An epic tale of honor, passion, and the gods of the North. Will you claim your copy and join the adventure?</p>  
 <a class="buy-button" href="your-payment-link">Buy Now</a>  
 <div class="footer">&copy; 2025 Yancwulf's Saga | All Rights Reserved</div>  
 </body>  
-</html> 
+</html>   
